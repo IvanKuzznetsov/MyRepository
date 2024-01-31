@@ -1,8 +1,4 @@
-# MyRepository
-Program hello world
-<<<<<<< HEAD
-Hi
 
-=======
+Program hello world
+
 Hello
->>>>>>> 1c036df6fc5da4c61e651c8a05106f59ebfef040
